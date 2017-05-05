@@ -49,3 +49,7 @@ p {
   font-size: 2em;
   text-align: center;
 }
+
+.bio-img {
+  width: 60vw;
+}
